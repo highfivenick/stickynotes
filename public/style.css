@@ -1,0 +1,36 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(img/cork-board.png);
+}
+img{
+  height: 200px;
+}
+textarea{
+  background-color: yellow;
+  height: 56px;
+}
+h1{
+  text-align: center;
+  margin-bottom: 56px;
+  font-size: 6rem;
+  color: white;
+  font-family: 'Pacifico', Arial, Helvetica, sans-serif,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+  width: 30%;
+  margin-left: 40%;
+}
+
+.notesHeader{
+  font-size: 3rem;
+  color: white;
+  font-weight: bold;
+}
+
+.fa-xmark{
+  color: red;
+  background-color: white;
+  font-size: 2rem;
+}
